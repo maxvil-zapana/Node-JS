@@ -47,5 +47,5 @@ console.log(miVariable);
 
 /* ===	require	===*/
 /**	 Función para importar modulos en Node.js 	 */
-    const modulo = require('./2.Modulos.js');
-    console.log(modulo);
+    //const modulo = require('./2.Modulos.js');
+    //console.log(modulo);

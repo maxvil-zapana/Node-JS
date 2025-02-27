@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "name": "curso-node-js",
+  "version": "0.0.1",
+  "description": "mi primer proyecto ",
+  "main": "1.ObjetosGlobales.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxvil-zapana/Node-JS.git"
+  },
+  "keywords": [
+    "primer",
+    "proyecto"
+  ],
+  "author": "Maxvil Zapana Chillihua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxvil-zapana/Node-JS/issues"
+  },
+  "homepage": "https://github.com/maxvil-zapana/Node-JS#readme"
+}
