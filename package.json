@@ -6,6 +6,8 @@
   "version": "0.0.1",
   "description": "mi primer proyecto ",
   "main": "1.ObjetosGlobales.js",
+  "type": "module",
+
   "devDependencies": {},
   "scripts": {
     "start": "winget upgrade",
